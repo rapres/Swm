@@ -1,4 +1,4 @@
-# Swm
+de# Swm
 Projet Sécurité Web Mail 
 Ce projet est intitulé de intégration Openssl dans la messagerie de mozilla thunderbird 
 
@@ -10,7 +10,7 @@ Ce projet consiste à mettre en place une messagerie sécurisée en environnemen
 - Dovecot (IMAP)
 - OpenSSL
 - Mozilla Thunderbird
-- S/MIME
+- S/MIME.
 
 Le système permet l’échange sécurisé de messages entre utilisateurs grâce au chiffrement asymétrique et aux certificats numériques.
 
